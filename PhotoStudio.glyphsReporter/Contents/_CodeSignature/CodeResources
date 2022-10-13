@@ -14,7 +14,11 @@
 		</data>
 		<key>Resources/PhotoStudioView.nib</key>
 		<data>
-		y6SL3aKmDoUMRNHcJ+FTzqVCE3E=
+		nCGWEM7Rc0SitzpCMpStUaIrXSA=
+		</data>
+		<key>Resources/updateInfo.txt</key>
+		<data>
+		Uwg6s3oO/xKAEN2JN9Z6qIfoNro=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -37,7 +41,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMBjoktk0yRSwT6VI1mEqcJdf6m0/5fdh52hFdQ2vEE=
+			pwLXi01efL7/+T8rupkS0J9N5TB52v7PK4wYU0I49/U=
+			</data>
+		</dict>
+		<key>Resources/updateInfo.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WbVWUHQVElIH/xeKfCXm0O/fGbLjjXBBS88B6Zj2NfA=
 			</data>
 		</dict>
 	</dict>
